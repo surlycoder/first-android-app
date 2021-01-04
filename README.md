@@ -2,7 +2,7 @@
 
 ### Implementation
 
-This project is a native Android app developed using Android Studio and Kotlin.
+This project is a native Android app developed using Android Studio and Kotlin. It is the result of following the [build your first app](https://developer.android.com/training/basics/firstapp) tutorial in the Android developers' documentation.
 
 ### Prerequisites
 
