@@ -18,4 +18,4 @@ Note: You may get build errors regarding licenses. If this occurs run the Androi
 ```
 sdkmanager --licenses
 ```
-From Windows 10, the SdkManager utility is located in C:\Users\<user>\AppData\Local\Android\Sdk\tools\bin. For more information see the following: https://stackoverflow.com/questions/38096225/automatically-accept-all-sdk-licences. 
+From Windows 10, the SdkManager utility is located in C:\Users\\\<user>\AppData\Local\Android\Sdk\tools\bin. For more information see the following: https://stackoverflow.com/questions/38096225/automatically-accept-all-sdk-licences. 
